@@ -8,7 +8,7 @@ import json
 URL = "https://www.google.com/speech-api/v1/recognize?xjerr=1&client=chromium&lang=en-US&maxresults=1"
 CHUNK_SIZE_TO_READ = 1024*300
 HTTP_STATUS_OK = 200
-JSON_STATUS_OK = "5"
+JSON_STATUS_OK = 0
 
 if __name__ == "__main__":
   if len(sys.argv) != 2 or "--help" in sys.argv:
@@ -29,19 +29,19 @@ if __name__ == "__main__":
           while True:
             r = session.post(URL, data=chunk, headers={"Content-Type": "audio/x-flac; rate={0}".format(rate), 
                                       "Content-Length": str(len(chunk))})
-            print "status == HTTP_STATUS_OK ? :", r.status_code == HTTP_STATUS_OK
             if r.status_code == HTTP_STATUS_OK:
-              print "status is OK: ", r.status_code, ", breaking"
+              print "http status is OK: ", r.status_code, ", breaking"
               break
             else:
-              print "status is NOT OK: ", r.status_code, ", one more time"
+              print "http status is NOT OK: ", r.status_code, ", one more time"
 
           print "----response----"
           print "code: ", r.status_code
           print "text: ", r.text
           jsdata = json.loads(r.text)
+
           if jsdata["status"] == JSON_STATUS_OK:
-            print "json: ", jsdata["hyptheses"][0]["utterance"]
+            print "json: ", jsdata["hypotheses"][0]["utterance"]
           else:
             print "it wasn't recognized"
 
@@ -51,5 +51,5 @@ if __name__ == "__main__":
       print "Unexpected error:", e
 
 
-# cd alex@ubuntu:~/Documents/python_projects/google_speech_python_api
-# python main.py /home/alex/Documents/python_projects/audio_flac/1.flac > /home/alex/Documents/python_projects/google_speech_python_api/log.txt
+# cd ~/Documents/python_projects/google_speech_python_api
+# python main.py ~/Documents/python_projects/audio_flac/1.flac > log.txt
