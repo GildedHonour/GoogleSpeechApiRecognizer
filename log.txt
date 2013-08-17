@@ -1,0 +1,16 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  6.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"ba0fae1b087a92be7819dd9b3d3b892b-1","hypotheses":[{"utterance":"okay well okay that's what it what was looking like is escort continuing on here these little bugs popping up and going to be spending time on those","confidence":0.8529683}]}
+
+---json:  okay well okay that's what it what was looking like is escort continuing on here these little bugs popping up and going to be spending time on those
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"7f91c7872492378687e97b394044c89a-1","hypotheses":[{"utterance":"um uh Allen certainly has changed around um please come to the person sex with the best for that um TomTom can do it traditionalists Pennsylvania Allen","confidence":0.79917854}]}
+
+---json:  um uh Allen certainly has changed around um please come to the person sex with the best for that 

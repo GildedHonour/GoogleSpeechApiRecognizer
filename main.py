@@ -47,6 +47,7 @@ if __name__ == "__main__":
 
       try:
         with open(file_name, "r") as f:
+          result_text = ""
           while True:
             chunk = f.read(CHUNK_SIZE_TO_READ)
             if not chunk:
@@ -68,18 +69,20 @@ if __name__ == "__main__":
 
             if jsdata["status"] == JSON_STATUS_OK:
               result = jsdata["hypotheses"][0]["utterance"]
+              result_text += result
               print "---json: ", result
             else:
-              result = "---it wasn't recognized"
+              result = "{{it wasn't recognized}}"
+              result_text += result 
               print result
 
-            save_result_to_csv(file_name, result)
-
-        print "------------------------------------------------"
-        print "done!"
-
+        save_result_to_csv(file_name, result_text)
+        print "----done with file: ", file_name
+      
       except Exception as e:
         print "Unexpected error:", e
+
+    print "---completely done"
 
 
 # cd ~/Documents/python_projects/google_speech_python_api
