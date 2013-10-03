@@ -17,7 +17,6 @@ RESULT_CSV_FILE_NAME = "/home/alex/Documents/python_projects/audio_flac/results.
 def get_file_rate(file_name):
   p = subprocess.Popen("soxi %s | grep 'Sample Rate' | awk '{print $4}'" % file_name, 
     shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-
   stdout, stderr = p.communicate()
   return stdout
 
@@ -29,7 +28,7 @@ def list_files(dir):
 
 def save_result_to_csv(file_name, result):
   with open(RESULT_CSV_FILE_NAME,"a+") as f:
-    out = csv.writer(f, delimiter=',',quoting=csv.QUOTE_ALL)
+    out = csv.writer(f, delimiter=',', quoting=csv.QUOTE_ALL)
     out.writerow([file_name, result])
 
 if __name__ == "__main__":
@@ -86,5 +85,5 @@ if __name__ == "__main__":
 
 
 # cd ~/Documents/python_projects/google_speech_python_api
-# python main.py ~/Documents/python_projects/audio_flac/1.flac > log.txt
 # python main.py /home/alex/Documents/python_projects/audio_flac > log.txt
+# python main.py /home/alex/Downloads/123/audio/samplewav3/flac > log.txt

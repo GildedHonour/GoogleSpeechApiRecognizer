@@ -1,16 +1,778 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
----file_name:  6.flac
+---file_name:  ewr1prd1154wt-201307231815-36FA2.flac
+---rate:  16000
+
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"08158a0c4f8fe944a4bab9c6499a5757-1","hypotheses":[{"utterance":"why I like a diamond part of my primary reason for wanting to spend some time with your world try to get some better plan in because then we can a 10 so you know what we gonna find lots of work with that Al Anon board we want to go to the store don't have a clue","confidence":0.8880364}]}
+
+---json:  why I like a diamond part of my primary reason for wanting to spend some time with your world try to get some better plan in because then we can a 10 so you know what we gonna find lots of work with that Al Anon board we want to go to the store don't have a clue
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"652b3e0e0c5f3cbbb7e37c3b0cbae0a3-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  ewr1prd1154wt-201307231815-36FA2.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201203271914-2193E.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"4f9c1e7011c4459bf93c668cca0a82fb-1","hypotheses":[{"utterance":"canine awareness","confidence":0.6972961}]}
+
+---json:  canine awareness
+----done with file:  ss-11-201203271914-2193E.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  eaaab9a5-a40a-418e-b53e-43f2356bb538.flac
 ---rate:  16000
 
 ---http status is OK:  200 , breaking
 ----response----
 ---code:  200
----text:  {"status":0,"id":"ba0fae1b087a92be7819dd9b3d3b892b-1","hypotheses":[{"utterance":"okay well okay that's what it what was looking like is escort continuing on here these little bugs popping up and going to be spending time on those","confidence":0.8529683}]}
+---text:  {"status":0,"id":"4c519e832fd71e9a493362d2928d180e-1","hypotheses":[{"utterance":"search porn yeah","confidence":0.6110983}]}
+
+---json:  search porn yeah
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"67dd427040ab915b4737859e84f99dba-1","hypotheses":[{"utterance":"BL IN Gio","confidence":0.5639259}]}
+
+---json:  BL IN Gio
+----done with file:  eaaab9a5-a40a-418e-b53e-43f2356bb538.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201208252114-41509.flac
+---rate:  8000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"ced175071e58c425c27f3bc81495b627-1","hypotheses":[{"utterance":"my name is","confidence":0.9646289}]}
+
+---json:  my name is
+----done with file:  ss-11-201208252114-41509.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231819-04FEF.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"80582352579905a39ca7fd610bc521f7-1","hypotheses":[{"utterance":"Michaels just just want one last thing on the back to the original the original question on heard September I want to set the expectations with customer media all these things I would highly Kashyap world right now I want to sit in India expectations around transcription","confidence":0.8638674}]}
+
+---json:  Michaels just just want one last thing on the back to the original the original question on heard September I want to set the expectations with customer media all these things I would highly Kashyap world right now I want to sit in India expectations around transcription
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"2107dbb2c079950cd776bf58a721f91d-1","hypotheses":[{"utterance":"cuz we're not a place we can give a good expectation of that so I think I think the temperature to Hurley to start studying does enigma mean maybe maybe August 1 Thompson we start time when someone sings deeper and we going to revalue it maybe maybe we can but","confidence":0.83943874}]}
+
+---json:  cuz we're not a place we can give a good expectation of that so I think I think the temperature to Hurley to start studying does enigma mean maybe maybe August 1 Thompson we start time when someone sings deeper and we going to revalue it maybe maybe we can but
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"8fea8cdc575bbf99ae2f7822be5703fc-1","hypotheses":[{"utterance":"right now with what we are having a handstand right now I would not be studying any expectations on transcription in September just my opinion man","confidence":0.76944596}]}
+
+---json:  right now with what we are having a handstand right now I would not be studying any expectations on transcription in September just my opinion man
+----done with file:  ewr1prd1154wt-201307231819-04FEF.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  c4fa6667-6c62-4a68-8e49-aa428a4e1ef8.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"512de420e8f4ee2d3d8b383297a47a1b-1","hypotheses":[{"utterance":"Tampa and call","confidence":0.92266417}]}
+
+---json:  Tampa and call
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"7707a6e45cb6d2926705a54268aba838-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"a746ca4d11c4d6dd6aa3d74a8d6b6982-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  c4fa6667-6c62-4a68-8e49-aa428a4e1ef8.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231816-32FC2.flac
+---rate:  16000
+
+---http status is NOT OK:  500 , one more time
+---http status is NOT OK:  500 , one more time
+---http status is NOT OK:  500 , one more time
+---http status is NOT OK:  500 , one more time
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"72f4ce39d43526e85270e958fe2161d5-1","hypotheses":[{"utterance":"right at exactly so mean its its possible that we could have a for mono audio work on want to do in NFL has a team decides to make a vest men go ahead get that done since we have the resources do it and then maybe ill stay on longer but for sitting pretty good","confidence":0.8850368}]}
+
+---json:  right at exactly so mean its its possible that we could have a for mono audio work on want to do in NFL has a team decides to make a vest men go ahead get that done since we have the resources do it and then maybe ill stay on longer but for sitting pretty good
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"ba2e26adb28f7d4a396c7186b3318e7b-1","hypotheses":[{"utterance":"on and have in time full time on a budget I got a lot of unknowns I got a pretty good idea I'm on a high level road mount for transcription Valley Chamber I don't for trial so on some time with your house and it says #### up some head start in takeaways in C work on the platform what are the units of work and then bring them","confidence":0.8706464}]}
+
+---json:  on and have in time full time on a budget I got a lot of unknowns I got a pretty good idea I'm on a high level road mount for transcription Valley Chamber I don't for trial so on some time with your house and it says #### up some head start in takeaways in C work on the platform what are the units of work and then bring them
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"8ac7429116e5681df63b9342236dcdf7-1","hypotheses":[{"utterance":"latina say okay we can we can pictures all the stuff in the world","confidence":0.71703345}]}
+
+---json:  latina say okay we can we can pictures all the stuff in the world
+----done with file:  ewr1prd1153wt-201307231816-32FC2.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  09e72151-3105-4aed-a226-5953b05d20c7.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"b39467f74272e98673f7444f2e65c7a8-1","hypotheses":[{"utterance":"the sex page sex page sex page","confidence":0.7733679}]}
+
+---json:  the sex page sex page sex page
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"792f919895ff6628d71f74cbbc95a44e-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  09e72151-3105-4aed-a226-5953b05d20c7.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  8d304b75-c970-4121-99bf-ab52a4d234a6.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"f55c6334072fc0bd8ccaa816a3d8398b-1","hypotheses":[{"utterance":"call Regina Spektor Florida call burn","confidence":0.7409186}]}
+
+---json:  call Regina Spektor Florida call burn
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"51430b134658627f0ecedae95eb38cd5-1","hypotheses":[{"utterance":"Beck show","confidence":0.40820473}]}
+
+---json:  Beck show
+----done with file:  8d304b75-c970-4121-99bf-ab52a4d234a6.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201301190705-105FD.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"00e42926082796b0613db84b5652c66e-1","hypotheses":[{"utterance":"old things you say going to be","confidence":0.96030587}]}
+
+---json:  old things you say going to be
+----done with file:  ss-11-201301190705-105FD.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231815-19FA6.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"0b24c0d9b0901904dd722602d63ddf83-1","hypotheses":[{"utterance":"sounds good to me it's you don't song does good is going on with you but Mike songs on the great I can see your cycle is Michael bit I'm assuming that just because of this isn't as a headset","confidence":0.8499506}]}
+
+---json:  sounds good to me it's you don't song does good is going on with you but Mike songs on the great I can see your cycle is Michael bit I'm assuming that just because of this isn't as a headset
+----done with file:  ewr1prd1153wt-201307231815-19FA6.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201203231631-38AFF.flac
+---rate:  8000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"29ce4f21beb5912430349dca2162e1b3-1","hypotheses":[{"utterance":"hola hola","confidence":0.83281815}]}
+
+---json:  hola hola
+----done with file:  ss-11-201203231631-38AFF.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201203271907-1885A.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"7146222f2a53ab3225564c9df4822ceb-1","hypotheses":[{"utterance":"tips for parents","confidence":0.9555486}]}
+
+---json:  tips for parents
+----done with file:  ss-11-201203271907-1885A.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231813-35F70.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"cfb8065e08ccfeeac66d2f24acd6c2ad-1","hypotheses":[{"utterance":"in any case I don't expect anything to ever happen like that that will give us a pile of learning from experience if we approach intelligently so uh uh I don't wanna be anything where to order","confidence":0.8786604}]}
+
+---json:  in any case I don't expect anything to ever happen like that that will give us a pile of learning from experience if we approach intelligently so uh uh I don't wanna be anything where to order
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"3eb23e4c6cd2b1a34624274891cdc811-1","hypotheses":[{"utterance":"path we just need to abandon because the what we thought would be something useful turns out to be a absolute have to be a little bit careful about what about that um","confidence":0.8669597}]}
+
+---json:  path we just need to abandon because the what we thought would be something useful turns out to be a absolute have to be a little bit careful about what about that um
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"e8592499ad46d4e0b0eb8ab60769c45f-1","hypotheses":[{"utterance":"Jewish in the situation where we're going to be just throwing darts and board in hoping to things get better um everything we do is going to be professionally sauce rule before we do it NNF comes out to the end it doesn't approve mint a word in a while","confidence":0.8961394}]}
+
+---json:  Jewish in the situation where we're going to be just throwing darts and board in hoping to things get better um everything we do is going to be professionally sauce rule before we do it NNF comes out to the end it doesn't approve mint a word in a while
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"5f10640ec53dd1e6ee973cdb35808abd-1","hypotheses":[{"utterance":"and um nn possibly also with just a little bit more actually get something to actually help but um #### it does","confidence":0.6055992}]}
+
+---json:  and um nn possibly also with just a little bit more actually get something to actually help but um #### it does
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"599a00d2185e093ad8238e845658b86d-1","hypotheses":[{"utterance":"yeah that that said it's a bit riskier than a transaction process Aurora payroll system","confidence":0.92211217}]}
+
+---json:  yeah that that said it's a bit riskier than a transaction process Aurora payroll system
+----done with file:  ewr1prd1154wt-201307231813-35F70.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231818-37FF2.flac
+---rate:  16000
+
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"5e63e228e55fa0994344a3b8546e3f7a-1","hypotheses":[{"utterance":"honestly Mike mean to be frank this is this a sign shops for stuff this is something that's never been done and what were going to try to make really intelligent of a gas at where were we think these units would be helpful and we're going to have to go build them and some of the month Nate Brooklyn","confidence":0.8947811}]}
+
+---json:  honestly Mike mean to be frank this is this a sign shops for stuff this is something that's never been done and what were going to try to make really intelligent of a gas at where were we think these units would be helpful and we're going to have to go build them and some of the month Nate Brooklyn
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"68b89e85cf3bbdfb00fb434398990727-1","hypotheses":[{"utterance":"is this is this is a real challenge","confidence":0.9322965}]}
+
+---json:  is this is this is a real challenge
+----done with file:  ewr1prd1153wt-201307231818-37FF2.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  39ec2c87-925b-4886-b441-5749bbf24dff.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"61afdb608253e5dacf228c6a81f4ac8e-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"a3897c19eaf4ad4f5ab45d0882ab3746-1","hypotheses":[{"utterance":"akia for Columbus State","confidence":0.6941579}]}
+
+---json:  akia for Columbus State
+----done with file:  39ec2c87-925b-4886-b441-5749bbf24dff.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201203252031-14BD9.flac
+---rate:  8000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"1f1195c515112035a9ba9db6d3f7ef7b-1","hypotheses":[{"utterance":"3 hours it was fat","confidence":0.80001354}]}
+
+---json:  3 hours it was fat
+----done with file:  ss-11-201203252031-14BD9.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  3bcbdde5-44c5-426b-8e65-6141fcb8be37.flac
+---rate:  16000
+
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"2c5e8a96f0bd48fe4f605fbb05d0104b-1","hypotheses":[{"utterance":"text Brian Eno message hey Brian I am actually driving back from right now so I will not be able to make it thank you","confidence":0.9240649}]}
+
+---json:  text Brian Eno message hey Brian I am actually driving back from right now so I will not be able to make it thank you
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"171f24401089b243cf29f07ff3358c60-1","hypotheses":[{"utterance":"lunch will have to do something together soon tell everyone hello for me","confidence":0.8712037}]}
+
+---json:  lunch will have to do something together soon tell everyone hello for me
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"3bcd711a6d938ccfa17b5628d5cc9f60-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  3bcbdde5-44c5-426b-8e65-6141fcb8be37.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231811-56F55.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"245bf4ac0adb08d6e34ebbd065a4421b-1","hypotheses":[{"utterance":"okay so that's not the sin that probably not not good start on that right away #### yeah but not think I think this is","confidence":0.9667474}]}
+
+---json:  okay so that's not the sin that probably not not good start on that right away #### yeah but not think I think this is
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"b5e00179f583144a1d14be175039e4ac-1","hypotheses":[{"utterance":"can I don't see um I can see changes this point um accept a gift to give the a change to uh uh Island","confidence":0.8255574}]}
+
+---json:  can I don't see um I can see changes this point um accept a gift to give the a change to uh uh Island
+----done with file:  ewr1prd1153wt-201307231811-56F55.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231817-22FC9.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"544c568192a8b5dcaa03adfefd7145d0-1","hypotheses":[{"utterance":"does every start responding or transcription start looking like this is just going to be a a really handy tool to be able to get information quickly and then I like I like Mills base with a couple weeks old stencils how to say about liquid helium and he's like oh can you get enough Michael this the sessions","confidence":0.71621466}]}
+
+---json:  does every start responding or transcription start looking like this is just going to be a a really handy tool to be able to get information quickly and then I like I like Mills base with a couple weeks old stencils how to say about liquid helium and he's like oh can you get enough Michael this the sessions
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"7d777eb29e7bb0100e5f5c0fb0ced57f-1","hypotheses":[{"utterance":"exactly but but but that doesn't mean it's think morning mystic more about the value of the smallest points are bringing up no mercy in a real value added having some admin tools on get into this information right who's going to be important for filter and it's going to be important for a lot of","confidence":0.87126225}]}
+
+---json:  exactly but but but that doesn't mean it's think morning mystic more about the value of the smallest points are bringing up no mercy in a real value added having some admin tools on get into this information right who's going to be important for filter and it's going to be important for a lot of
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"1d1b0c39e95e773f1a7b0769cfe58023-1","hypotheses":[{"utterance":"things just to go to go get this information quickly and easily be able to children start in and try to something","confidence":0.8475595}]}
+
+---json:  things just to go to go get this information quickly and easily be able to children start in and try to something
+----done with file:  ewr1prd1154wt-201307231817-22FC9.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231552-44392.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"57eaf794f4d886d1bb26adf9f90d3f8a-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"855346b1c036d2e06c0681cbe819e7b5-1","hypotheses":[{"utterance":"John Mayer my view on that is just that we have","confidence":0.87927455}]}
+
+---json:  John Mayer my view on that is just that we have
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"e6d9f24d9d96a92ab48ff6f78e055fb6-1","hypotheses":[{"utterance":"so many things that we need to do basic back on the block and tackle in with getting clients up and services up and making sure the calls getting hosted not the one things and transcribe it spring put the right place in people are getting calls and olive","confidence":0.87172157}]}
+
+---json:  so many things that we need to do basic back on the block and tackle in with getting clients up and services up and making sure the calls getting hosted not the one things and transcribe it spring put the right place in people are getting calls and olive
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"41399fec4987bc85fc46191fa47de8c9-1","hypotheses":[{"utterance":"which you know it is all been done right isn't fancy nails in sexy things are really going to end of time a valuer company but the same time things that you know you need to have in order to be successful the why straight guy great transcription but you don't know if it works um","confidence":0.78195417}]}
+
+---json:  which you know it is all been done right isn't fancy nails in sexy things are really going to end of time a valuer company but the same time things that you know you need to have in order to be successful the why straight guy great transcription but you don't know if it works um
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"afdab6099b0ae9ce823785e40a391128-1","hypotheses":[{"utterance":"so you don't get any users on the system cause I can't read the calls so Thai #### I think having Tom focused on transcription is great then we've got on Tom and John able to dedicate a fair amount of time to to getting that stuff done enable focus","confidence":0.81293166}]}
+
+---json:  so you don't get any users on the system cause I can't read the calls so Thai #### I think having Tom focused on transcription is great then we've got on Tom and John able to dedicate a fair amount of time to to getting that stuff done enable focus
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"4a644482c63a5608b86c23f5807486e8-1","hypotheses":[{"utterance":"having my self working on back and have a child working on all the September connection a boys voice connections I kind of stuff guys working on ur stuff at the field good to me feel like a good break great point feels like it's a good","confidence":0.76909375}]}
+
+---json:  having my self working on back and have a child working on all the September connection a boys voice connections I kind of stuff guys working on ur stuff at the field good to me feel like a good break great point feels like it's a good
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"1de9981ee9aa47a6d6e1bd407776f0e7-1","hypotheses":[{"utterance":"spreading responsibility and utilizing people to their after strengths for their strengths Anna and provides a lot of Bank PO Box that's not to say that I won't get involved in summer white stuff but hurt and then speak to text but I know","confidence":0.91279334}]}
+
+---json:  spreading responsibility and utilizing people to their after strengths for their strengths Anna and provides a lot of Bank PO Box that's not to say that I won't get involved in summer white stuff but hurt and then speak to text but I know
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"4d9fe67dd7f477f68741d94689868689-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  ewr1prd1154wt-201307231552-44392.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201211191235-39649.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"07f60bb6c9826aa97793d10949bb536d-1","hypotheses":[{"utterance":"recording the sum of transcription","confidence":0.95897067}]}
+
+---json:  recording the sum of transcription
+----done with file:  ss-11-201211191235-39649.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231751-30D7C.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"584744c5d4ebe6f19f05f7c1ce555eb4-1","hypotheses":[{"utterance":"will you know the is it comes down to what we want to prioritize Dropbox got Salesforce with God on the elbows kind of thing so its it's really a to its not its moral question of","confidence":0.84011626}]}
+
+---json:  will you know the is it comes down to what we want to prioritize Dropbox got Salesforce with God on the elbows kind of thing so its it's really a to its not its moral question of
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"a98c107a2603cc5520f04f7fad864a9c-1","hypotheses":[{"utterance":"we have this vision for how to use the speech to text on how to use the the system and we have learning that we need to get from nose just as we need to get from creasing accuracy and so it's really a question where do you want to get rid of ants","confidence":0.91748554}]}
+
+---json:  we have this vision for how to use the speech to text on how to use the the system and we have learning that we need to get from nose just as we need to get from creasing accuracy and so it's really a question where do you want to get rid of ants
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"56e67cfb220ac20df25efd49d7fc05ab-1","hypotheses":[{"utterance":"we got a pretty good balancer that's not to say that in 4 weeks from now won't look at it again and say hey you know what we need to change skin but I think right now this is a good good luck plant","confidence":0.90681434}]}
+
+---json:  we got a pretty good balancer that's not to say that in 4 weeks from now won't look at it again and say hey you know what we need to change skin but I think right now this is a good good luck plant
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"35f1672b0ccefc969902d747c2374db9-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  ewr1prd1154wt-201307231751-30D7C.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231814-59F94.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"c08958e42519323008c1c9b805196634-1","hypotheses":[{"utterance":"yeah but it doesn't it doesn't matter cause its Pomona police archive of our own and I thought the corpus parts from the archives your time is working this num okay","confidence":0.8904207}]}
+
+---json:  yeah but it doesn't it doesn't matter cause its Pomona police archive of our own and I thought the corpus parts from the archives your time is working this num okay
+----done with file:  ewr1prd1154wt-201307231814-59F94.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  9ed5a4e3-5a40-44de-9183-7b0929bebb81.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"3681a859904b4347bd89826b89fcff8d-1","hypotheses":[{"utterance":"text Logan made text Logan","confidence":0.7402019}]}
+
+---json:  text Logan made text Logan
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"8e5abf11c119d9b904f20c9328102777-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"ba00de33cab822034d5adcc6392bc80d-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  9ed5a4e3-5a40-44de-9183-7b0929bebb81.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201205111601-45F04.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"ff9b8de9286a92cda8e8fcef1f945e52-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  ss-11-201205111601-45F04.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231552-0138C.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"b1ffa801dcd1116b8bb6b898943f9221-1","hypotheses":[{"utterance":"yeah that's my machine being weird every once in awhile my fertile machine what did sliver solution every once in awhile it won't send the microphone to the parallels audio controller and I have to act","confidence":0.8579538}]}
+
+---json:  yeah that's my machine being weird every once in awhile my fertile machine what did sliver solution every once in awhile it won't send the microphone to the parallels audio controller and I have to act
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"56b7c3c0397b0032ad8268bc8cfc4eff-1","hypotheses":[{"utterance":"go in and you didn't enable and disable on dumpster bunch of Hoops in French with a worker then sometimes I just give up in the test for USB device dry cleaner barrels Network sign but always works but it means that my Mac so it doesn't saw","confidence":0.91112316}]}
+
+---json:  go in and you didn't enable and disable on dumpster bunch of Hoops in French with a worker then sometimes I just give up in the test for USB device dry cleaner barrels Network sign but always works but it means that my Mac so it doesn't saw
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"3986de1d935e3855120cf8e3703067b3-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  ewr1prd1153wt-201307231552-0138C.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231812-49F5E.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"2d7e3ab9948b9d84f190e828cc295ab6-1","hypotheses":[{"utterance":"it does I would have to modify a guy would protective comes up I will I will have to modify is the plug in to be able to handle Dakota right now it's hard coded ask her to 711","confidence":0.8560843}]}
+
+---json:  it does I would have to modify a guy would protective comes up I will I will have to modify is the plug in to be able to handle Dakota right now it's hard coded ask her to 711
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"fd33c22cfd589de9efc52ccce225f597-1","hypotheses":[{"utterance":"Homme II will I need to get a list of possible codecs for the negotiation to work with that we think a reasonable and then it would take the best one I'll probably best for","confidence":0.7140995}]}
+
+---json:  Homme II will I need to get a list of possible codecs for the negotiation to work with that we think a reasonable and then it would take the best one I'll probably best for
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"e098b89d5448f4ce033ac3f0dd588f54-1","hypotheses":[{"utterance":"yes I have to actually I have to I know if its not a symptom is going to continue to work the other way I am NOT going to switch over by changing out hard coded can I have to actually have a meeting list of a of Kaukauna","confidence":0.88258445}]}
+
+---json:  yes I have to actually I have to I know if its not a symptom is going to continue to work the other way I am NOT going to switch over by changing out hard coded can I have to actually have a meeting list of a of Kaukauna
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"1fa2825c3c8dedebcd91a82ba0186d45-1","hypotheses":[{"utterance":"news in and make sure the negotiation text right once was a little bit more then uh","confidence":0.7754598}]}
+
+---json:  news in and make sure the negotiation text right once was a little bit more then uh
+----done with file:  ewr1prd1154wt-201307231812-49F5E.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201205290129-42E49.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"1ac8961731514f6d3e444cb75421f710-1","hypotheses":[{"utterance":"hello my name is jars","confidence":0.6680282}]}
+
+---json:  hello my name is jars
+----done with file:  ss-11-201205290129-42E49.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  1a441df0-f324-4375-95f1-a61abdd75653.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"9e2cef12031f209e66d9111ec02f1abb-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"fb3d4dcf608bdf30f8ac6c6c8dfebf11-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"7d086efc7ab794cc9ac00e776d882800-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  1a441df0-f324-4375-95f1-a61abdd75653.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  feb2f08f-14e2-494a-b338-db7ef7d74b3f.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"ebea656eac706fa99da923579e94a1d4-1","hypotheses":[{"utterance":"weather","confidence":0.6436027}]}
+
+---json:  weather
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"e4d9ff839b65c9bb57ba0c684731e304-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  feb2f08f-14e2-494a-b338-db7ef7d74b3f.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231812-24F56.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"9794cb6f4bdafceaaedb59ed33cf8886-1","hypotheses":[{"utterance":"only only if there was a problem that we could recognize of which I don't think we have right now so if if if the on John and reported that sounds terrible thing I would have","confidence":0.9454509}]}
+
+---json:  only only if there was a problem that we could recognize of which I don't think we have right now so if if if the on John and reported that sounds terrible thing I would have
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"cdc0d0cd536b31670b396963f91e98bc-1","hypotheses":[{"utterance":"whats up if it seems to be working fine we're just looking for another level of improvement 41 level of improvement bye bye fixing this red stuff so Honda Norwood I wouldn't trade it for that","confidence":0.86706626}]}
+
+---json:  whats up if it seems to be working fine we're just looking for another level of improvement 41 level of improvement bye bye fixing this red stuff so Honda Norwood I wouldn't trade it for that
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":5,"id":"61ee4006195d49a1744a8103714a4e5c-1","hypotheses":[]}
+
+{{it wasn't recognized}}
+----done with file:  ewr1prd1154wt-201307231812-24F56.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1154wt-201307231810-32F2A.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"84a0bd0f10d7beb50d41ac0448bd00be-1","hypotheses":[{"utterance":"okay well okay that's what it what was looking like is escort continuing on here these little bugs popping up and going to be spending time on those","confidence":0.8529683}]}
 
 ---json:  okay well okay that's what it what was looking like is escort continuing on here these little bugs popping up and going to be spending time on those
 ---http status is OK:  200 , breaking
 ----response----
 ---code:  200
----text:  {"status":0,"id":"7f91c7872492378687e97b394044c89a-1","hypotheses":[{"utterance":"um uh Allen certainly has changed around um please come to the person sex with the best for that um TomTom can do it traditionalists Pennsylvania Allen","confidence":0.79917854}]}
+---text:  {"status":0,"id":"6375c61b32555620a15920a4c5a51a42-1","hypotheses":[{"utterance":"um uh Allen certainly has changed around um please come to the person sex with the best for that um TomTom can do it traditionalists Pennsylvania Allen","confidence":0.79917854}]}
 
----json:  um uh Allen certainly has changed around um please come to the person sex with the best for that 
+---json:  um uh Allen certainly has changed around um please come to the person sex with the best for that um TomTom can do it traditionalists Pennsylvania Allen
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"9eacfcbc3d2a4999f7703a11a64eca68-1","hypotheses":[{"utterance":"so um we should probably give that to him to the Talented focus on a reso reso Duncan Ferguson the a the theam echo cancellation","confidence":0.9004757}]}
+
+---json:  so um we should probably give that to him to the Talented focus on a reso reso Duncan Ferguson the a the theam echo cancellation
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"6a51d3bb1b2d46b1b92306aaef1bc9c6-1","hypotheses":[{"utterance":"and uh that looks like I'm going to be for a stylus um we don't have you don't have ready for that so uh I'm going to tackle that and at the same time I think of all these","confidence":0.80741006}]}
+
+---json:  and uh that looks like I'm going to be for a stylus um we don't have you don't have ready for that so uh I'm going to tackle that and at the same time I think of all these
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"877c6a21302d8445045096b7795f3f57-1","hypotheses":[{"utterance":"come up as a doos is is the starting out there is enough that I have to probably plans for 9:30 a.m. Unknown um right now I can see we still have memory leak in a scientific plus one more","confidence":0.87254727}]}
+
+---json:  come up as a doos is is the starting out there is enough that I have to probably plans for 9:30 a.m. Unknown um right now I can see we still have memory leak in a scientific plus one more
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"4ecc3e2ac6180c4b2e1c77aa1e0fdfdb-1","hypotheses":[{"utterance":"yeah we we could but I'm going to build a much more quickly because urge for the most part A Bug's my own code believe this point they are so um","confidence":0.9251895}]}
+
+---json:  yeah we we could but I'm going to build a much more quickly because urge for the most part A Bug's my own code believe this point they are so um
+----done with file:  ewr1prd1154wt-201307231810-32F2A.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201302212325-05109.flac
+---rate:  8000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"0bd39cfcef10efc7e628a2df5968e0ad-1","hypotheses":[{"utterance":"hello hello is my way sex","confidence":0.5647952}]}
+
+---json:  hello hello is my way sex
+----done with file:  ss-11-201302212325-05109.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201304222041-54611.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"d773c74d378701545cf3cffe50622890-1","hypotheses":[{"utterance":"ecclesiology Appendix A","confidence":0.8989072}]}
+
+---json:  ecclesiology Appendix A
+----done with file:  ss-11-201304222041-54611.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231752-13D96.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"9e0bdcff1d93dfb7afd2fef7d3758bbc-1","hypotheses":[{"utterance":"Lucas mother concerns that we don't have the plumbing Steven present that to them in the web interface in and figure out who can have that in the visibility all that stuff in Latin","confidence":0.8663446}]}
+
+---json:  Lucas mother concerns that we don't have the plumbing Steven present that to them in the web interface in and figure out who can have that in the visibility all that stuff in Latin
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"3c1fcd6b91859003793f364342cd2eb9-1","hypotheses":[{"utterance":"when to feel little bit like were put in a carton the horse there um I see the value and I understand want to get there I'm just thinking you know next 3 weeks to get all that in place and we don't even have your screen my cup set","confidence":0.8541129}]}
+
+---json:  when to feel little bit like were put in a carton the horse there um I see the value and I understand want to get there I'm just thinking you know next 3 weeks to get all that in place and we don't even have your screen my cup set
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"7990b9eac48771d809309288ac99c98a-1","hypotheses":[{"utterance":"Felix results yet happened","confidence":0.3798924}]}
+
+---json:  Felix results yet happened
+----done with file:  ewr1prd1153wt-201307231752-13D96.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231814-40F96.flac
+---rate:  16000
+
+---http status is NOT OK:  500 , one more time
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"a7b7b255679f1f9e59fbea2429a927f8-1","hypotheses":[{"utterance":"does everyone sir yeah I can do that I can because he's standing next to me HS quick questions Jew did you get the apps on the sims to change","confidence":0.7561954}]}
+
+---json:  does everyone sir yeah I can do that I can because he's standing next to me HS quick questions Jew did you get the apps on the sims to change
+----done with file:  ewr1prd1153wt-201307231814-40F96.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ewr1prd1153wt-201307231809-57F26.flac
+---rate:  16000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"12c67089b912e5a818ae3f59b11b5eba-1","hypotheses":[{"utterance":"what 500 max only started at 300 so yeah yeah help yeah I","confidence":0.91640484}]}
+
+---json:  what 500 max only started at 300 so yeah yeah help yeah I
+---http status is NOT OK:  500 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"67e383616e8b8bd445178706b7ce143e-1","hypotheses":[{"utterance":"cm in inches for that for AT&T in another result is a 2 second pause before cut you off and on and so you're getting these two Minnesota rinses going through and that might be too long","confidence":0.8615851}]}
+
+---json:  cm in inches for that for AT&T in another result is a 2 second pause before cut you off and on and so you're getting these two Minnesota rinses going through and that might be too long
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"153885796df5f1e4585d0d2ea7e08e7a-1","hypotheses":[{"utterance":"Marriott update AT&T know that look like ATT because some letters of great out","confidence":0.61388844}]}
+
+---json:  Marriott update AT&T know that look like ATT because some letters of great out
+----done with file:  ewr1prd1153wt-201307231809-57F26.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201211160047-30767.flac
+---rate:  8000
+
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"90a042d36739b1ceaa5548808794de56-1","hypotheses":[{"utterance":"goodness gracious me I love this transcription program","confidence":0.7961519}]}
+
+---json:  goodness gracious me I love this transcription program
+----done with file:  ss-11-201211160047-30767.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+---file_name:  ss-11-201305011028-498A9.flac
+---rate:  8000
+
+---http status is NOT OK:  400 , one more time
+---http status is OK:  200 , breaking
+----response----
+---code:  200
+---text:  {"status":0,"id":"5ab6ef8e675ba224ceb002cd616a3172-1","hypotheses":[{"utterance":"what's your name how old is","confidence":0.7964414}]}
+
+---json:  what's your name how old is
+----done with file:  ss-11-201305011028-498A9.flac
+---completely done
